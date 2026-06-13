@@ -1,5 +1,6 @@
 {
     "name": "renaissance/adobe-commerce",
+    "version": "1.0.0",
     "description": "Renaissance Themes: Adobe Commerce edition (supersedes Open Source, adds EE module styling)",
     "type": "metapackage",
     "license": "proprietary",
